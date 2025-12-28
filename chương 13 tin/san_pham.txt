@@ -1,4 +1,0 @@
-ID, Tên sản phẩm, Giá
-1, Laptop, 1200
-2, Chuột máy tính, 30
-3, Bàn phím, 75
